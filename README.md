@@ -1,5 +1,7 @@
 # Avoimen datan verkkosivut
 
+Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
+
 [CERN](http://opendata.cern.ch/docs/about-cms)
 
 [CSC](https://research.csc.fi/open-gis-data)
