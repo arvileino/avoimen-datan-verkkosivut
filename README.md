@@ -4,9 +4,19 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 ## Kunnat ja maakuntaliitot
 
+[Hämeenlinna](https://www.hameenlinna.fi/hallinto-ja-talous/talous-ja-hankinnat/avoin-data/)
+
+[Joensuu](http://opendata.joensuu.fi)
+
+[Jyväskylä](https://data.jyvaskyla.fi)
+
+[Kouvola](https://www.kouvola.fi/kouvolankaupunki/kouvola-tietoa/avoin-data/)
+
 [Kuopio](https://www.kuopio.fi/avoin-data)
 
 [Lahti](https://www.lahti.fi/kaupunki-ja-paatoksenteko/strategia-ja-kehittaminen/avoin-data/)
+
+[Lappeenranta](https://www.lappeenranta.fi/fi/Palvelut/Paatoksenteko-ja-talous/Kaupunkitutkimus/Avoin-data)
 
 [Lieto](http://www.lieto.fi/fi-FI/LietoInfo/Avoin_data)
 
@@ -48,11 +58,17 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Kansalliskirjasto](https://www.kansalliskirjasto.fi/fi/palvelut/metadatan-muunto-ja-valityspalvelut/avoin-data)
 
-[Kirjastot.fi](https://hakemisto.kirjastot.fi/open-data)
+[Kelasto](https://www.kela.fi/kelasto)
+
+[Kirjastohakemisto](https://hakemisto.kirjastot.fi/open-data)
+
+[Kirjastojen tilastot](https://tilastot.kirjastot.fi)
 
 [Liikenne- ja viestintävirasto Traficom](https://www.traficom.fi/fi/tilastot-ja-julkaisut/avoin-data)
 
 [Liikuntapaikat ja virkistyskohteet](https://www.lipas.fi/)
+
+[Liiteri-tietopalvelu](https://liiteri.ymparisto.fi)
 
 [Luonnonvarakeskus Luke](https://opendata.luke.fi/)
 
@@ -70,6 +86,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Oikeusrekisterikeskus](https://www.oikeusrekisterikeskus.fi/fi/index/loader.html.stx?path=/channels/public/www/ork/fi/structured_nav/tietopalvelu/tilastotjaavoindata)
 
+[Paikkatietohakemisto](http://paikkatietohakemisto.fi)
+
 [Patentti- ja rekisterihallitus](https://avoindata.prh.fi/)
 
 [Sosiaali- ja terveysalan lupa- ja valvontavirasto Valvira](https://www.valvira.fi/valvira/avoin-data)
@@ -79,6 +97,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 [Suomen ympäristökeskus SYKE](https://www.syke.fi/avointieto)
 
 [Säteilyturvakeskus STUK](https://www.stuk.fi/avoin-data)
+
+[Teatteritilastot](https://www.tinfo.fi/fi/data)
 
 [Terveyden ja hyvinvoinnin laitos THL](https://thl.fi/fi/tilastot-ja-data/aineistot-ja-palvelut/avoin-data)
 
