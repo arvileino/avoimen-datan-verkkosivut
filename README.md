@@ -2,6 +2,30 @@
 
 Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
+## Kunnat ja maakuntaliitot
+
+[Kuopio](https://www.kuopio.fi/avoin-data)
+
+[Lahti](https://www.lahti.fi/kaupunki-ja-paatoksenteko/strategia-ja-kehittaminen/avoin-data/)
+
+[Lieto](http://www.lieto.fi/fi-FI/LietoInfo/Avoin_data)
+
+[Lounaistiedon dataportaali](http://data.lounaistieto.fi) (V-S liitto)
+
+[Oulun dataportaali](http://data.ouka.fi)
+
+[Pori](https://www.pori.fi/pori-tieto/avoin-data)
+
+[Pääkaupunkiseudun dataportaali](http://hri.fi) (Helsinki, Espoo, Vantaa ja Kauniainen)
+
+[Tampereen dataportaali](http://data.tampere.fi)
+
+[Turku](https://www.turku.fi/avoindata)
+
+## Muut
+
+[Avoindata.fi](https://www.avoindata.fi/)
+
 [CERN](http://opendata.cern.ch/docs/about-cms)
 
 [CSC](https://research.csc.fi/open-gis-data)
