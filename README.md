@@ -72,6 +72,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Hämeen ammattikorkeakoulu HAMK](https://www.hamk.fi/tutkimus/avoin-data/)
 
+[Helsingin seudun liikenne](https://www.hsl.fi/avoindata)
+
 [Helsingin seudun ympäristöpalvelut HSY](https://www.hsy.fi/fi/asiantuntijalle/avoindata/)
 
 [Ilmatieteen laitos](https://ilmatieteenlaitos.fi/avoin-data)
@@ -88,6 +90,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Lahden ammattikorkeakoulu](https://data.lamk.fi)
 
+[Lahden seudun liikenne](http://www.lsl.fi/lisatietoa/avoin-data/)
+
 [Liikenne- ja viestintävirasto Traficom](https://www.traficom.fi/fi/tilastot-ja-julkaisut/avoin-data)
 
 [Liikuntapaikat ja virkistyskohteet](https://www.lipas.fi/)
@@ -99,6 +103,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 [Lääkealan turvallisuus- ja kehittämiskeskus Fimea](https://www.fimea.fi/tietoa_fimeasta/avoin-data)
 
 [Maanmittauslaitos](https://www.maanmittauslaitos.fi/asioi-verkossa/avoimien-aineistojen-tiedostopalvelu)
+
+[Matkahuolto](https://www.matkahuolto.fi/matkahuollon-avoimet-rajapinnat)
 
 [Metropolia ammattikorkeakoulu](https://opendata.metropolia.fi)
 
@@ -128,6 +134,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Tampereen ammattikorkeakoulu](https://avoindata.tamk.fi)
 
+[Tampereen seudun joukkoliikenne](https://joukkoliikenne.tampere.fi/ohjeita-ja-tietoa/digipalvelut/avoin-data.html)
+
 [Tampereen yliopisto](https://avoindata.tuni.fi)
 
 [Teatteritilastot](https://www.tinfo.fi/fi/data)
@@ -139,6 +147,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 [Toimeksi.fi](https://www.toimeksi.fi/tietoa-palvelusta/avoin-data/)
 
 [Traffic Management Finland](https://tmfg.fi/fi/tmfg/avoindata)
+
+[Turun seudun joukkoliikenne](http://data.foli.fi)
 
 [Turvallisuus- ja kemikaalivirasto Tukes](https://tukes.fi/tietoa-tukesista/avoin-data)
 
