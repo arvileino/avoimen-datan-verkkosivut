@@ -16,6 +16,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Jyväskylä](https://data.jyvaskyla.fi)
 
+[Kajaani](http://www.kajaani.fi/fi/avoindata)
+
 [Kauniainen](https://www.kauniainen.fi/kaupunki_ja_paatoksenteko/tietoa_kaupungista/avoin_data)
 
 [Kouvola](https://www.kouvola.fi/kouvolankaupunki/kouvola-tietoa/avoin-data/)
@@ -48,11 +50,17 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Avoindata.fi](https://www.avoindata.fi/)
 
+[Avoin Satakunta](https://www.avoinsatakunta.fi)
+
 [CERN](http://opendata.cern.ch/docs/about-cms)
 
 [CSC](https://research.csc.fi/open-gis-data)
 
+[Datasatama](https://www.datasatama.fi)
+
 [Digi- ja väestötietovirasto, palvelutietovaranto](https://palveluhallinta.suomi.fi/fi/sivut/palvelutietovaranto/tekninen-yleiskuvaus)
+
+[Eduskunta](https://avoindata.eduskunta.fi/)
 
 [Eduskunnan kirjasto](https://avoindata.eduskunta.fi/)
 
@@ -98,6 +106,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Museovirasto](https://www.museovirasto.fi/fi/palvelut-ja-ohjeet/tietojarjestelmat/kulttuuriympariston-tietojarjestelmat/kulttuuriympaeristoen-paikkatietoaineistot)
 
+[NAP-liikkumispalvelukatalogi](https://finap.fi/)
+
 [NASA](https://data.nasa.gov/)
 
 [Vaalipalvelu](https://tulospalvelu.vaalit.fi/)
@@ -137,6 +147,10 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 [Työterveyslaitos](https://www.ttl.fi/tutkimus-ja-kehittaminen/avoin-data/)
 
 [Valtiokonttori](https://www.valtiokonttori.fi/palvelu/kuntatalouden-tietopalvelu/)
+
+[Valtiovarainministeriö](https://vm.fi/avoin-tieto)
+
+[Valvira](https://www.valvira.fi/valvira/avoin-data)
 
 [Verohallinto](https://www.vero.fi/tietoa-verohallinnosta/tilastot/avoin_dat/)
 
