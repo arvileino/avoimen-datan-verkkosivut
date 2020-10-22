@@ -4,11 +4,19 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 ## Kunnat ja maakuntaliitot
 
+[Espoo](https://www.espoo.fi/fi-FI/Asioi_verkossa/Muut_palvelut/Avoin_data/Avoin_data(6369))
+
+[Helsinki](https://www.hel.fi/helsinki/fi/kaupunki-ja-hallinto/tietoa-helsingista/avoin-tieto)
+
+[Helsingin avoimia paikkatietoja](https://www.hel.fi/helsinki/fi/kartat-ja-liikenne/kartat-ja-paikkatieto/Paikkatiedot+ja+-aineistot/avoimet+paikkatiedot/)
+
 [Hämeenlinna](https://www.hameenlinna.fi/hallinto-ja-talous/talous-ja-hankinnat/avoin-data/)
 
 [Joensuu](http://opendata.joensuu.fi)
 
 [Jyväskylä](https://data.jyvaskyla.fi)
+
+[Kauniainen](https://www.kauniainen.fi/kaupunki_ja_paatoksenteko/tietoa_kaupungista/avoin_data)
 
 [Kouvola](https://www.kouvola.fi/kouvolankaupunki/kouvola-tietoa/avoin-data/)
 
@@ -22,6 +30,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Lounaistiedon dataportaali](http://data.lounaistieto.fi) (V-S liitto)
 
+[Oulu](https://www.ouka.fi/oulu/oulu-tietoa/avoin-data)
+
 [Oulun dataportaali](http://data.ouka.fi)
 
 [Pori](https://www.pori.fi/pori-tieto/avoin-data)
@@ -31,6 +41,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 [Tampereen dataportaali](http://data.tampere.fi)
 
 [Turku](https://www.turku.fi/avoindata)
+
+[Vantaa](https://www.vantaa.fi/hallinto_ja_talous/tietoa_vantaasta/avoin_data)
 
 ## Muut
 
@@ -50,6 +62,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Geologinen tutkimuskeskus](http://www.gtk.fi/tietopalvelut/rajapintapalvelut/)
 
+[Hämeen ammattikorkeakoulu HAMK](https://www.hamk.fi/tutkimus/avoin-data/)
+
 [Helsingin seudun ympäristöpalvelut HSY](https://www.hsy.fi/fi/asiantuntijalle/avoindata/)
 
 [Ilmatieteen laitos](https://ilmatieteenlaitos.fi/avoin-data)
@@ -64,6 +78,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Kirjastojen tilastot](https://tilastot.kirjastot.fi)
 
+[Lahden ammattikorkeakoulu](https://data.lamk.fi)
+
 [Liikenne- ja viestintävirasto Traficom](https://www.traficom.fi/fi/tilastot-ja-julkaisut/avoin-data)
 
 [Liikuntapaikat ja virkistyskohteet](https://www.lipas.fi/)
@@ -75,6 +91,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 [Lääkealan turvallisuus- ja kehittämiskeskus Fimea](https://www.fimea.fi/tietoa_fimeasta/avoin-data)
 
 [Maanmittauslaitos](https://www.maanmittauslaitos.fi/asioi-verkossa/avoimien-aineistojen-tiedostopalvelu)
+
+[Metropolia ammattikorkeakoulu](https://opendata.metropolia.fi)
 
 [Metsäkeskus](https://www.metsaan.fi/yleistietoa-avoimesta-metsatiedosta)
 
@@ -97,6 +115,10 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 [Suomen ympäristökeskus SYKE](https://www.syke.fi/avointieto)
 
 [Säteilyturvakeskus STUK](https://www.stuk.fi/avoin-data)
+
+[Tampereen ammattikorkeakoulu](https://avoindata.tamk.fi)
+
+[Tampereen yliopisto](https://avoindata.tuni.fi)
 
 [Teatteritilastot](https://www.tinfo.fi/fi/data)
 
