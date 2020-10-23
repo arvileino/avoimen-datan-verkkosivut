@@ -80,6 +80,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [infoFinland](https://www.infofinland.fi/fi/tietoa-palvelusta/avoin-data)
 
+[Kansallisgallerian tekijänoikeusvapaat teoskokoelmat API](https://www.kansallisgalleria.fi/fi/api-sovelluskehittajille)
+
 [Kansalliskirjasto](https://www.kansalliskirjasto.fi/fi/palvelut/metadatan-muunto-ja-valityspalvelut/avoin-data)
 
 [Kelasto](https://www.kela.fi/kelasto)
@@ -97,6 +99,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 [Liikuntapaikat ja virkistyskohteet](https://www.lipas.fi/)
 
 [Liiteri-tietopalvelu](https://liiteri.ymparisto.fi)
+
+[Luonnontieteellinen keskusmuseo](https://www.luomus.fi/fi/avoin-data)
 
 [Luonnonvarakeskus Luke](https://opendata.luke.fi/)
 
@@ -128,6 +132,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Suomen pankki ja Finanssivalvonta](https://www.suomenpankki.fi/fi/suomen-pankki/yleisopalvelut/suomen-pankin-ja-finanssivalvonnan-avoimen-datan-palvelu/)
 
+[Suomen riistakeskus](https://riista.fi/avoindata)
+
 [Suomen ympäristökeskus SYKE](https://www.syke.fi/avointieto)
 
 [Säteilyturvakeskus STUK](https://www.stuk.fi/avoin-data)
@@ -147,6 +153,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 [Toimeksi.fi](https://www.toimeksi.fi/tietoa-palvelusta/avoin-data/)
 
 [Traffic Management Finland](https://tmfg.fi/fi/tmfg/avoindata)
+
+[Tullin ulkomaankaupan tilastot](https://tulli.fi/tilastot/uljas-api)
 
 [Turun seudun joukkoliikenne](http://data.foli.fi)
 
