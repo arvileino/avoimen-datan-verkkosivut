@@ -44,6 +44,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Turku](https://www.turku.fi/avoindata)
 
+[Uudenmaan liiton paikkatietoaineistot](https://www.uudenmaanliitto.fi/tietopalvelut/kaavakartat_ja_paikkatieto/lataamo_ja_rajapintapalvelut)
+
 [Vantaa](https://www.vantaa.fi/hallinto_ja_talous/tietoa_vantaasta/avoin_data)
 
 ## Muut
@@ -69,6 +71,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 [Arkistojen, kirjastojen ja museoiden aineistot, Finna](https://www.kiwi.fi/display/Finna/Finnan+avoin+rajapinta)
 
 [Geologinen tutkimuskeskus](http://www.gtk.fi/tietopalvelut/rajapintapalvelut/)
+
+[Helsingin Sanomat](https://github.com/HS-Datadesk/koronavirus-avoindata)
 
 [Hämeen ammattikorkeakoulu HAMK](https://www.hamk.fi/tutkimus/avoin-data/)
 
@@ -159,6 +163,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 [Turun seudun joukkoliikenne](http://data.foli.fi)
 
 [Turvallisuus- ja kemikaalivirasto Tukes](https://tukes.fi/tietoa-tukesista/avoin-data)
+
+[Tutkimusdata-arkistojen hakupalvelu re3data](https://www.re3data.org/)
 
 [Työelämätieto](https://www.tyoelamatieto.fi/#/fi/dashboards)
 
