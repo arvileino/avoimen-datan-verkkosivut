@@ -70,6 +70,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Arkistojen, kirjastojen ja museoiden aineistot, Finna](https://www.kiwi.fi/display/Finna/Finnan+avoin+rajapinta)
 
+[Finto](http://api.finto.fi/)
+
 [Geologinen tutkimuskeskus](http://www.gtk.fi/tietopalvelut/rajapintapalvelut/)
 
 [Helsingin Sanomat](https://github.com/HS-Datadesk/koronavirus-avoindata)
