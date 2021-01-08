@@ -134,6 +134,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Patentti- ja rekisterihallitus](https://avoindata.prh.fi/)
 
+[Seilin meripoijun sääasema](https://saaristomeri.utu.fi/poijunsaa/)
+
 [Sosiaali- ja terveysalan lupa- ja valvontavirasto Valvira](https://www.valvira.fi/valvira/avoin-data)
 
 [Suomen pankki ja Finanssivalvonta](https://www.suomenpankki.fi/fi/suomen-pankki/yleisopalvelut/suomen-pankin-ja-finanssivalvonnan-avoimen-datan-palvelu/)
