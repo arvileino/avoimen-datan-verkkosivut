@@ -130,6 +130,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Oikeusrekisterikeskus](https://www.oikeusrekisterikeskus.fi/fi/index/loader.html.stx?path=/channels/public/www/ork/fi/structured_nav/tietopalvelu/tilastotjaavoindata)
 
+[Opetushallinnon tilastopalvelu Vipunen](https://vipunen.fi/)
+
 [Paikkatietohakemisto](http://paikkatietohakemisto.fi)
 
 [Patentti- ja rekisterihallitus](https://avoindata.prh.fi/)
