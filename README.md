@@ -126,7 +126,7 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [NASA](https://data.nasa.gov/)
 
-[Vaalipalvelu](https://tulospalvelu.vaalit.fi/)
+[Oikeusministeriön vaalipalvelu](https://tulospalvelu.vaalit.fi/)
 
 [Oikeusrekisterikeskus](https://www.oikeusrekisterikeskus.fi/fi/index/loader.html.stx?path=/channels/public/www/ork/fi/structured_nav/tietopalvelu/tilastotjaavoindata)
 
