@@ -176,6 +176,8 @@ Avoimeen dataan ja siihen läheisesti liittyviä verkkosivuja.
 
 [Työterveyslaitos](https://www.ttl.fi/tutkimus-ja-kehittaminen/avoin-data/)
 
+[UTU Geospatial data service](https://geonode.utu.fi)
+
 [Valtiokonttori](https://www.valtiokonttori.fi/palvelu/kuntatalouden-tietopalvelu/)
 
 [Valtiovarainministeriö](https://vm.fi/avoin-tieto)
